@@ -2,7 +2,7 @@
   Reference prototype for Agent Trust Negotiation (ATN). Peer-to-peer trust handshake protocol for AI agents with capability negotiation, delegation, provenance, and SCITT-anchored receipts. Companion to IETF draft-somoza-atn-agent-trust-negotiation.
 # ATN Reference Implementation (Prototype)
 
-This is a reference prototype for the Agent Trust Negotiation protocol described in `draft-somoza-atn-agent-trust-negotiation-00`. It is not production code. It exists to demonstrate that the specification is implementable and that the capability intersection algebra and handshake state machine behave as specified.
+This is a reference prototype for the Agent Trust Negotiation protocol described in `draft-somoza-atn-agent-trust-negotiation-01`. It is not production code. It exists to demonstrate that the specification is implementable and that the capability intersection algebra and handshake state machine behave as specified.
 
 ## What this demonstrates
 
